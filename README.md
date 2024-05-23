@@ -1,0 +1,1 @@
+Configuring for Visual Studio and building leads to an error message being displayed where it is not possible to follow the link, that is vscode opening the header file and displaying the line with the error.  This works when using clang as kit.
